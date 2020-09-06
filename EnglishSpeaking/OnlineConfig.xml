@@ -1,0 +1,14 @@
+{
+	"s_load_admob_first":"true",
+	"s_had_ads_when_play_video":"false",
+	"s_had_admob_banner":"true",
+	"s_had_admob_interstitial":"true",
+	"s_had_admob_native":"false",
+	"banner_ad_unit_id":"ca-app-pub-3759057823136522/3728218839",		
+	"interstitial_full_screen_id":"ca-app-pub-3759057823136522/4466585438",
+	"m_interstitial_frame_show":"15",
+	"s_had_fan_banner":"true",
+	"s_had_fan_interstitial":"true",
+	"fan_banner_ad_unit_id":"533568870320654_832310613779810",
+	"fan_interstitial_full_screen_id":"533568870320654_537151356629072",
+}  
