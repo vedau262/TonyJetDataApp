@@ -1,5 +1,5 @@
 {
-	"s_load_admob_first":"true",
+	"s_load_admob_first":"false",
 	"s_had_admob_when_play_video":"true",
 	"s_had_admob_banner":"true",
 	"s_had_admob_interstitial":"true",
