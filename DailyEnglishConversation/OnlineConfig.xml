@@ -1,8 +1,8 @@
 {
 	"s_load_admob_first":"true",
 	"s_had_ads_when_play_video":"true",
-	"s_had_admob_banner":"true",
-	"s_had_admob_interstitial":"true",
+	"s_had_admob_banner":"false",
+	"s_had_admob_interstitial":"false",
 	"s_had_admob_native":"false",
 	"banner_ad_unit_id":"ca-app-pub-2877643434825780/9979867261",		
 	"interstitial_full_screen_id":"ca-app-pub-2877643434825780/8666785590",
